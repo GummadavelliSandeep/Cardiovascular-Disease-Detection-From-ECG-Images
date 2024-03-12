@@ -17,5 +17,10 @@ enhancing medical analysis and decision-making.
 - After executing the code, open the terminal and navigate to the Deployment folder.
 - Use the command streamlit run final_app.py to run the application.
   
-### Flow Chart
+#### Flow Chart
+![](https://github.com/GummadavelliSandeep/Cardiovascular-Disease-Detection-From-ECG-Images/blob/main/Images/Getsarted%20Flow%20chart.png)
+
+### Architecture Flow Chart Diagaram
+![]()
   
+### Demo GIF
