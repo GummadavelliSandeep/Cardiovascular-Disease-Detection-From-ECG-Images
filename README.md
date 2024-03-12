@@ -24,3 +24,4 @@ enhancing medical analysis and decision-making.
 ![](https://github.com/GummadavelliSandeep/Cardiovascular-Disease-Detection-From-ECG-Images/blob/main/Images/Architecture1.jpg)
   
 ### Demo GIF
+![](https://github.com/GummadavelliSandeep/Cardiovascular-Disease-Detection-From-ECG-Images/blob/main/Demo%20GIF.gif)
