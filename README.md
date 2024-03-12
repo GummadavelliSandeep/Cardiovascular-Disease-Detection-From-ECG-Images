@@ -21,6 +21,6 @@ enhancing medical analysis and decision-making.
 ![](https://github.com/GummadavelliSandeep/Cardiovascular-Disease-Detection-From-ECG-Images/blob/main/Images/Getsarted%20Flow%20chart.png)
 
 ### Architecture Flow Chart Diagaram
-![]()
+![](https://github.com/GummadavelliSandeep/Cardiovascular-Disease-Detection-From-ECG-Images/blob/main/Images/Architecture1.jpg)
   
 ### Demo GIF
