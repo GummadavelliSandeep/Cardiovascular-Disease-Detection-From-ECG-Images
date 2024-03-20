@@ -12,7 +12,7 @@ enhancing medical analysis and decision-making.
 
 - Download and install Python 3.5 version.
 - Open the cloned folder in VSCode
-- Open colabs folder and Set all paths in the code to your local path as I did it in code
+- Open colabs folder and Set all paths in the code to your local path as I did it in code(with extension as .ipynb)
 - Execute all three codes in that folder
 - After executing the code, open the terminal and navigate to the Deployment folder.
 - Use the command streamlit run final_app.py to run the application.
@@ -24,3 +24,4 @@ enhancing medical analysis and decision-making.
 ![](https://github.com/GummadavelliSandeep/Cardiovascular-Disease-Detection-From-ECG-Images/blob/main/Images/Architecture1.jpg)
   
 ### Demo GIF
+![](https://github.com/GummadavelliSandeep/Cardiovascular-Disease-Detection-From-ECG-Images/blob/main/Demo%20GIF.gif)
