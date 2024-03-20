@@ -10,7 +10,7 @@ enhancing medical analysis and decision-making.
 
 ### Getting Started:
 
-- Download and install Python 3.5 version.
+- Download and install Python 3.8 version.
 - Open the cloned folder in VSCode
 - Open colabs folder and Set all paths in the code to your local path as I did it in code(with extension as .ipynb)
 - Execute all three codes in that folder
