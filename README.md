@@ -15,7 +15,8 @@ enhancing medical analysis and decision-making.
 - Open colabs folder and Set all paths in the code to your local path as I did it in code(with extension as .ipynb)
 - Execute all three codes in that folder
 - After executing the code, open the terminal and navigate to the Deployment folder.
-- Use the command streamlit run final_app.py to run the application.
+- Install all listed packages in **requirements.txt file** by using the command **pip install -r requirements.txt**
+-  Now Use the command **streamlit run final_app.py** to run the final_app.py file.
   
 #### Flow Chart
 ![](https://github.com/GummadavelliSandeep/Cardiovascular-Disease-Detection-From-ECG-Images/blob/main/Images/Getsarted%20Flow%20chart.png)
